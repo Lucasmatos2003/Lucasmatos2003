@@ -14,7 +14,7 @@
   -->
 </div>
 #bio
-# Hi guys, my name is Lucash and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+# Hi guys, my name is Lucas and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
