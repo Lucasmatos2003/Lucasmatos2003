@@ -20,7 +20,7 @@ icon
 https://emojipedia.org/pt/castor
 -->
 
-Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
+Welcome to my GitHub profile! I'm Lucas Matos, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
 
 ## 🛠️ Skills & Tools
 <div style="display: inline_block"><br>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a p
 
 ## 🌐 Connect with me
 <div> 
-  <a href="https://www.linkedin.com/in/arthur-arash-briceno-heidari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-david-carvalho-vieira-de-matos-9a461524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--
   https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
